@@ -1,0 +1,22 @@
+@media (max-width: 1025px) {
+  #woocommerce_slider_price_reverse, .Woo-PriceLarge.rs-layer {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center; } }
+
+@media (width: 667px) {
+  .booked-modal .field button.cancel {
+    margin-top: 0 !important; } }
+
+@media (max-width: 375px) {
+  .woocommerce.widget_shopping_cart .woocommerce-mini-cart__buttons {
+    -webkit-box-pack: stretch;
+    -ms-flex-pack: stretch;
+    justify-content: stretch; }
+  .woocommerce.widget_shopping_cart .woocommerce-mini-cart__buttons.buttons .button:not(.checkout) {
+    padding: 11px 7px; }
+  form.checkout_coupon > p {
+    width: 100% !important;
+    padding: 0 !important; }
+  form.checkout_coupon > p button {
+    width: 100% !important; } }

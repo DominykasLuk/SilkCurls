@@ -1,0 +1,90 @@
+Release 1.4.1
+    Added:
+        - Compatibility with WP 5.7.2
+    Fixed:
+        - Update plugins to their latest versions
+    Changed:
+        - Update demo data
+
+Release 1.4.0
+    Added:
+        - Home 9 Elementor Dark page
+        - Compatibility with with Advanced Popups plugin
+        - PHP 8 Compatibility
+    Fixed:
+        - Update plugins to their latest versions
+    Changed:
+        - Update demo data
+
+Release 1.3.0
+    Added:
+        - Compatibility with Elementor plugin
+        - Update plugins to their latest versions
+    Changed:
+        - Update demo data
+		
+Release 1.2.1
+    Added:
+        - Compatibility with WP 5.5.1
+        - Update plugins to their latest versions
+
+Release 1.2.0
+    Added:
+        - Home Page 6
+        - Compatibility with YITH WooCommerce Gift Cards plugin
+        - Layout "Submenu Shop"
+        - WP 5.5 compatibility
+    Fixed:
+        - Update plugins to their latest versions    
+        - Theme styles
+    Changed:
+        - Update demo data
+
+Release 1.1.1
+    Added:
+        - Compatibility with WP 5.4
+        - Compatibility with ThemeREX Updater plugin
+        - Compatibility with Elegro Crypto Payment
+
+    Fixed:
+        - Update plugins to their latest versions
+
+    Changed:
+        - Update demo data
+
+Release 1.1
+    Added:
+        - Home Page 4
+        - Home Page 5
+        - Booked Plugin
+        - Compatibility with RevSlider v.6.1.2
+    Fixed:        
+        - Update plugins to their latest versions
+        - Improve Theme Styles
+
+    Changed: 
+        - Update demo data
+        - Privacy Policy Page
+
+       
+
+Release 1.0.1
+    Added:
+        - Service Plus page 
+        - Compatibility with PHP 7.3
+        - Compatibility with WP 5.2.2
+        - Compatibility with WooCommerce 3.6
+        - Service Plus page 
+    Fixed:        
+        - Update plugins to their latest versions
+        - Update JS scripts
+
+    Changed: 
+        - Update demo data
+
+    Removed:
+        - Google+ links
+
+
+Release 1.0
+
